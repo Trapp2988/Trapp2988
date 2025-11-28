@@ -1,4 +1,4 @@
-##👋 Hi, I’m Tanner Rapp
+## 👋 Hi, I’m Tanner Rapp
 I’m a biostatistics graduate student and AI/ML engineer with experience spanning analytical chemistry, machine learning, generative AI, and cloud engineering.
 
 ## 🧠 Skills
