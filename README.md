@@ -4,7 +4,7 @@ I’m a biostatistics graduate student and AI/ML engineer with experience spanni
 ## 🧠 Skills
 **Machine Learning:** Deep learning, generative AI engineering, Classical ML  
 **Programming:** Python, R, SQL, SAS  
-**Cloud & Dev:** AWS, Docker, REST APIs  
+**Cloud & Dev:** AWS, REST APIs  
 **Domain:** Analytical chemistry, biostatistics, clinical analytics
 
 ## 🔬 Highlighted Projects
